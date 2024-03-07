@@ -1,0 +1,10 @@
+set ruler
+set autoindent
+set number
+set ignorecase
+color elflord
+set smartcase
+:colorscheme 	blue
+set tabstop=2
+set softtabstop=2
+set shiftwidth=2
